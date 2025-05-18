@@ -1,0 +1,301 @@
+Name,Role,Location,Experience,Compensation,Status
+Aditi Khanna,Analyst,Jaipur,1-2,719261.4,Y
+Pooja Kaur,Senior Analyst,Bangalore,2-3,878573.3,Y
+Kajal Mehta,Analyst,Bangalore,1-2,730236.1000000001,Y
+Amaya Joshi,Analyst,Jaipur,0-1,627000.0,Y
+Bilal Kulkarni,Associate,Jaipur,3-4,1073737.5,Y
+Girish Reddy,Analyst,Pune,1-2,737584.1000000001,Y
+Esha Dhillon,Analyst,Pune,1-2,717283.6000000001,Y
+Kashi Nair,Analyst,Bangalore,1-2,721365.7000000001,Y
+Himanshu Dhillon,Senior Analyst,Pune,2-3,984935.6000000001,Y
+Hetal Bhatia,Senior Analyst,Pune,2-3,902984.5000000001,Y
+Anusha Verma,Analyst,Jaipur,1-2,763083.2000000001,Y
+Mukta Iyer,Analyst,Bangalore,1-2,748251.9,Y
+Hari Menon,Analyst,Pune,0-1,627000.0,N
+Jai Menon,Senior Associate,Pune,6-7,1874678.3,Y
+Kalpana Sharma,Analyst,Bangalore,1-2,736661.2000000001,Y
+Leena Verma,Analyst,Bangalore,1-2,744884.8,Y
+Arvind Sinha,Senior Analyst,Jaipur,2-3,808354.8,Y
+Anshul Gupta,Analyst,Jaipur,1-2,733701.1000000001,Y
+Devi Menon,Senior Associate,Jaipur,1-2,1885467.3750000005,Y
+Farhan Gupta,Analyst,Pune,0-1,732171.0000000001,Y
+Rajeshwari Joshi,Associate,Bangalore,3-4,1298364.1,Y
+Damodar Kumar,Associate,Jaipur,4-5,1002093.4,Y
+Om Sinha,Senior Analyst,Bangalore,2-3,931053.2000000001,Y
+Kunal Kaur,Analyst,Bangalore,0-1,627000.0,Y
+Nishant Reddy,Senior Analyst,Bangalore,2-3,825000.0000000001,N
+Gowri Iyer,Analyst,Pune,1-2,765859.6000000001,Y
+Akshita Verma,Analyst,Jaipur,0-1,627000.0,Y
+Renu Gupta,Senior Associate,Bangalore,5-6,2520199.0,Y
+Mira Verma,Analyst,Bangalore,0-1,627000.0,Y
+Chhavi Mehta,Associate,Jaipur,4-5,1135475.0,Y
+Manasi Kulkarni,Analyst,Bangalore,1-2,740672.9,Y
+Kiran Banerjee,Analyst,Bangalore,1-2,769025.4,N
+Farah Mehta,Analyst,Pune,0-1,627000.0,N
+Kala Gupta,Analyst,Bangalore,0-1,627000.0,Y
+Aayush Verma,Analyst,Jaipur,0-1,627000.0,Y
+Akanksha Mehta,Analyst,Jaipur,1-2,765097.3,Y
+Lohit Reddy,Analyst,Bangalore,1-2,752134.9,Y
+Jayesh Chowdhury,Analyst,Bangalore,0-1,627000.0,N
+Nirmala Verma,Senior Analyst,Bangalore,2-3,923882.3,Y
+Alka Reddy,Analyst,Jaipur,0-1,627000.0,Y
+Praveen Joshi,Senior Analyst,Bangalore,2-3,923760.2000000001,Y
+Anisha Chowdhury,Analyst,Jaipur,0-1,627000.0,Y
+Prema Khanna,Associate,Bangalore,3-4,1380118.3,Y
+Pritha Sinha,Associate,Bangalore,4-5,1469602.2000000002,Y
+Karthika Joshi,Analyst,Bangalore,0-1,627000.0,N
+Kalyani Patel,Analyst,Bangalore,0-1,627000.0,N
+Bindiya Pillai,Associate,Jaipur,4-5,1207856.1,Y
+Annapurna Mehta,Analyst,Jaipur,0-1,627000.0,Y
+Niraj Kumar,Senior Analyst,Bangalore,2-3,822522.8,N
+Nila Patel,Senior Analyst,Bangalore,2-3,822954.0000000001,Y
+Bhanu Kapoor,Senior Analyst,Jaipur,2-3,926730.2000000001,Y
+Deepali Joshi,Senior Associate,Jaipur,0-1,1456952.0625000002,Y
+Poornima Mehta,Senior Analyst,Bangalore,2-3,812046.4,Y
+Manju Kaur,Analyst,Bangalore,1-2,730365.9,Y
+Rajesh Kapoor,Associate,Bangalore,4-5,1391229.4000000001,Y
+Kamala Kumar,Analyst,Bangalore,1-2,736105.7000000001,Y
+Reena Dhillon,Senior Associate,Bangalore,5-6,2697203.3000000003,Y
+Gayathri Kumar,Analyst,Pune,0-1,627000.0,N
+Archana Reddy,Analyst,Jaipur,1-2,721818.9,Y
+Devang Iyer,Senior Associate,Jaipur,0-1,2056873.5000000002,Y
+Rati Rao,Senior Associate,Bangalore,5-6,2107351.4000000004,Y
+Bala Verma,Senior Analyst,Jaipur,2-3,866398.5000000001,Y
+Atul Bhatia,Senior Analyst,Jaipur,2-3,840933.5000000001,Y
+Astha Banerjee,Senior Analyst,Jaipur,2-3,892012.0000000001,Y
+Hima Kaur,Senior Analyst,Pune,2-3,905658.6000000001,Y
+Aarya Reddy,Analyst,Jaipur,1-2,735740.5000000001,Y
+Ravi Bhatia,Senior Associate,Bangalore,6-7,2207729.7,Y
+Jyoti Kaur,Analyst,Bangalore,0-1,627000.0,Y
+Namrata Kulkarni,Analyst,Bangalore,1-2,764244.8,Y
+Abhilasha Kapoor,Analyst,Jaipur,1-2,724516.1000000001,Y
+Anmol Dhillon,Analyst,Jaipur,1-2,750263.8,Y
+Ajit Dhillon,Analyst,Jaipur,0-1,627000.0,Y
+Nishita Kapoor,Senior Analyst,Bangalore,2-3,893200.0000000001,N
+Nitesh Nair,Senior Analyst,Bangalore,2-3,887019.1000000001,Y
+Arun Iyer,Senior Analyst,Jaipur,2-3,894520.0000000001,Y
+Arjun Joshi,Senior Analyst,Jaipur,1-2,796188.8,Y
+Nitya Menon,Senior Analyst,Bangalore,1-2,868557.8,Y
+Indira Kumar,Associate,Pune,3-4,997826.5000000001,Y
+Hrithik Gupta,Senior Analyst,Pune,1-2,975580.1000000001,Y
+Nalini Sinha,Analyst,Bangalore,0-1,627000.0,Y
+Chandni Kaur,Associate,Jaipur,2-3,1061336.1,N
+Avinash Dhillon,Senior Analyst,Jaipur,2-3,841892.7000000001,Y
+Inderjit Patel,Associate,Pune,2-3,1090542.2000000002,Y
+Rani Khanna,Manager,Bangalore,8-9,3387271.8000000003,Y
+Akash Gupta,Analyst,Jaipur,0-1,627000.0,Y
+Anuj Sharma,Analyst,Jaipur,0-1,627000.0,Y
+Punit Bhatia,Associate,Bangalore,4-5,1202702.6,N
+Mehul Kumar,Analyst,Bangalore,1-2,747309.2000000001,Y
+Pratyush Kapoor,Senior Analyst,Bangalore,2-3,971118.5000000001,Y
+Harshita Chowdhury,Senior Analyst,Pune,2-3,929207.4,Y
+Bhoomi Menon,Associate,Jaipur,2-3,1072311.9000000001,Y
+Manish Chowdhury,Analyst,Bangalore,1-2,733448.1000000001,Y
+Lata Sharma,Analyst,Bangalore,0-1,627000.0,Y
+Madhuri Nair,Analyst,Bangalore,0-1,627000.0,Y
+Poonam Dhillon,Senior Analyst,Bangalore,2-3,858000.0000000001,N
+Anita Banerjee,Analyst,Jaipur,1-2,742091.9,Y
+Prem Menon,Associate,Bangalore,2-3,1277133.0,Y
+Ranjeet Kulkarni,Senior Associate,Bangalore,4-5,1918526.5000000002,Y
+Chinmay Gupta,Associate,Jaipur,3-4,1065418.2000000002,Y
+Rahul Kumar,Associate,Bangalore,4-5,1218219.2000000002,Y
+Abhijeet Nair,Analyst,Jaipur,0-1,627000.0,Y
+Chandan Bhatia,Associate,Jaipur,4-5,1206497.6,Y
+Hiral Mehta,Senior Analyst,Pune,2-3,822115.8,N
+Barkha Reddy,Senior Analyst,Jaipur,2-3,862966.5000000001,Y
+Radhika Sharma,Associate,Bangalore,4-5,1142893.4000000001,Y
+Akhil Sharma,Analyst,Jaipur,1-2,728059.2000000001,Y
+Ketan Pillai,Analyst,Bangalore,1-2,758030.9,N
+Harini Khanna,Analyst,Pune,1-2,747034.2000000001,Y
+Jagadish Nair,Senior Associate,Pune,4-5,2331199.2,Y
+Mohini Joshi,Analyst,Bangalore,1-2,743415.2000000001,Y
+Akshay Kumar,Analyst,Jaipur,1-2,745058.6000000001,Y
+Isha Singh,Associate,Pune,3-4,1099831.7000000002,Y
+Abhay Singh,Analyst,Jaipur,1-2,734465.6000000001,Y
+Naina Khanna,Analyst,Bangalore,1-2,723311.6000000001,Y
+Anil Pillai,Analyst,Jaipur,1-2,733356.8,Y
+Neeraj Dhillon,Senior Analyst,Bangalore,2-3,909910.1000000001,Y
+Lochana Singh,Analyst,Bangalore,0-1,627000.0,Y
+Meena Sharma,Analyst,Bangalore,1-2,716098.9,Y
+Nanda Pillai,Analyst,Bangalore,0-1,627000.0,Y
+Manisha Banerjee,Analyst,Bangalore,0-1,627000.0,Y
+Diya Rao,Analyst,Pune,0-1,627000.0,Y
+Kirti Rao,Analyst,Bangalore,0-1,627000.0,N
+Malati Khanna,Analyst,Bangalore,1-2,758720.6000000001,Y
+Kavya Menon,Analyst,Bangalore,1-2,718040.4,N
+Agni Chowdhury,Analyst,Jaipur,1-2,735291.7000000001,Y
+Damini Verma,Manager,Jaipur,7-8,3201602.8000000003,Y
+Amitabh Menon,Analyst,Jaipur,1-2,764633.1000000001,Y
+Ishita Joshi,Associate,Pune,4-5,1089193.6,Y
+Drishti Bhatia,Analyst,Pune,1-2,731826.7000000001,Y
+Jayant Kulkarni,Analyst,Bangalore,0-1,627000.0,Y
+Mayank Gupta,Analyst,Bangalore,0-1,627000.0,Y
+Rakesh Menon,Manager,Bangalore,9-10,3615921.1,Y
+Raj Verma,Associate,Bangalore,3-4,1627552.3,Y
+Gita Kapoor,Analyst,Pune,0-1,627000.0,N
+Pratibha Verma,Senior Analyst,Bangalore,1-2,952795.8,Y
+Jitendra Bhatia,Analyst,Bangalore,1-2,762813.7000000001,Y
+Balraj Singh,Senior Analyst,Jaipur,2-3,813205.8,N
+Dhaval Pillai,Analyst,Pune,1-2,756828.6000000001,Y
+Leela Kumar,Analyst,Bangalore,0-1,627000.0,N
+Ahana Banerjee,Analyst,Jaipur,0-1,627000.0,Y
+Mitra Singh,Analyst,Bangalore,0-1,627000.0,Y
+Manav Pillai,Analyst,Bangalore,0-1,627000.0,Y
+Ashok Chowdhury,Senior Analyst,Jaipur,1-2,915087.8,Y
+Anjali Rao,Analyst,Jaipur,0-1,627000.0,Y
+Anand Sinha,Analyst,Jaipur,1-2,742916.9,Y
+Kamini Singh,Analyst,Bangalore,1-2,738909.6000000001,Y
+Pallavi Pillai,Senior Analyst,Bangalore,2-3,905943.5000000001,Y
+Kushan Dhillon,Analyst,Bangalore,1-2,769577.6000000001,Y
+Mahendra Iyer,Analyst,Bangalore,1-2,762328.6000000001,Y
+Rajat Reddy,Associate,Bangalore,3-4,1739020.8,Y
+Jigar Rao,Analyst,Bangalore,0-1,627000.0,Y
+Nikita Sharma,Senior Analyst,Bangalore,2-3,880000.0000000001,N
+Azad Kumar,Senior Analyst,Jaipur,1-2,961572.7000000001,Y
+Hema Banerjee,Senior Analyst,Pune,2-3,921621.8,Y
+Dhanya Kulkarni,Analyst,Pune,0-1,627000.0,Y
+Ranjana Sinha,Manager,Bangalore,9-10,2845078.5,Y
+Ayush Patel,Senior Analyst,Jaipur,2-3,946526.9,Y
+Mohan Kapoor,Analyst,Bangalore,0-1,627000.0,Y
+Mukesh Nair,Analyst,Bangalore,0-1,627000.0,N
+Chitrangada Patel,Associate,Jaipur,3-4,1125337.4000000001,Y
+Durga Kaur,Analyst,Pune,0-1,627000.0,Y
+Megha Patel,Analyst,Bangalore,0-1,627000.0,Y
+Ayesha Sharma,Senior Analyst,Jaipur,2-3,877776.9,Y
+Arnav Nair,Senior Analyst,Jaipur,2-3,835930.7000000001,Y
+Gopal Nair,Analyst,Pune,0-1,627000.0,Y
+Priyanka Chowdhury,Associate,Bangalore,3-4,1507535.7000000002,Y
+Divya Banerjee,Analyst,Pune,1-2,764267.9,Y
+Purva Dhillon,Associate,Bangalore,3-4,1124775.3,Y
+Bipin Chowdhury,Associate,Jaipur,3-4,1045341.0000000001,Y
+Dhruv Chowdhury,Analyst,Pune,0-1,627000.0,Y
+Prabhakar Gupta,Senior Analyst,Bangalore,2-3,966805.4,Y
+Neha Mehta,Senior Analyst,Bangalore,2-3,883523.3,Y
+Rajani Singh,Associate,Bangalore,4-5,1705000.0000000002,Y
+Prajwal Kumar,Senior Analyst,Bangalore,2-3,878356.6000000001,Y
+Rashmi Chowdhury,Senior Associate,Bangalore,6-7,2656991.7,Y
+Gitanjali Joshi,Analyst,Pune,1-2,728878.7000000001,Y
+Manjari Rao,Analyst,Bangalore,1-2,754562.6000000001,Y
+Parvati Rao,Senior Analyst,Bangalore,2-3,843194.0000000001,Y
+Aanya Sharma,Analyst,Jaipur,1-2,752506.7000000001,Y
+Haritha Kulkarni,Senior Analyst,Pune,2-3,962082.0000000001,Y
+Pratik Singh,Senior Analyst,Bangalore,2-3,984223.9,Y
+Mansi Dhillon,Analyst,Bangalore,0-1,627000.0,N
+Abishek Menon,Analyst,Jaipur,0-1,627000.0,Y
+Lalit Gupta,Analyst,Bangalore,1-2,757817.5000000001,Y
+Nutan Khanna,Senior Analyst,Bangalore,2-3,833646.0000000001,N
+Arushi Khanna,Senior Analyst,Jaipur,2-3,804401.4,Y
+Ravindra Kaur,Senior Associate,Bangalore,4-5,2293091.9000000004,Y
+Amrita Khanna,Analyst,Jaipur,0-1,627000.0,Y
+Neela Bhatia,Senior Analyst,Bangalore,2-3,859305.7000000001,Y
+Rajni Iyer,Associate,Bangalore,4-5,1210000.0,N
+Rajiv Nair,Associate,Bangalore,4-5,1501111.7000000002,Y
+Ratan Banerjee,Senior Associate,Bangalore,4-5,2285935.3000000003,Y
+Ishani Kapoor,Associate,Pune,3-4,1112862.3,Y
+Keshav Sinha,Analyst,Bangalore,1-2,726485.1000000001,N
+Priti Kulkarni,Associate,Bangalore,3-4,1288833.7000000002,Y
+Karan Reddy,Analyst,Bangalore,0-1,627000.0,Y
+Bhavin Joshi,Senior Analyst,Jaipur,2-3,880888.8,Y
+Ashish Pillai,Senior Analyst,Jaipur,2-3,889804.3,Y
+Ankita Kaur,Analyst,Jaipur,0-1,627000.0,Y
+Naresh Rao,Analyst,Bangalore,1-2,736611.7000000001,Y
+Raghu Patel,Associate,Bangalore,3-4,1407945.0,Y
+Gayatri Verma,Analyst,Pune,1-2,734485.4,Y
+Indrani Verma,Associate,Pune,4-5,1210000.0,N
+Rhea Sharma,Senior Associate,Bangalore,6-7,2072782.8000000003,Y
+Anurag Kumar,Analyst,Jaipur,0-1,627000.0,Y
+Atharv Rao,Senior Analyst,Jaipur,2-3,935066.0000000001,N
+Rachana Gupta,Associate,Bangalore,3-4,1265000.0,N
+Alok Singh,Analyst,Jaipur,1-2,746996.8,Y
+Ishaan Reddy,Associate,Pune,4-5,991509.2000000001,Y
+Harsha Pillai,Senior Analyst,Pune,2-3,818297.7000000001,N
+Deepa Reddy,Senior Associate,Jaipur,0-1,1456952.0625000002,Y
+Priya Pillai,Associate,Bangalore,4-5,1565993.0000000002,Y
+Nitin Iyer,Senior Analyst,Bangalore,2-3,905172.4,Y
+Lakshmi Mehta,Analyst,Bangalore,0-1,627000.0,Y
+Prutha Banerjee,Associate,Bangalore,4-5,1244072.5,Y
+Kamal Verma,Analyst,Bangalore,0-1,627000.0,Y
+Madhav Kapoor,Analyst,Bangalore,0-1,627000.0,Y
+Ankit Bhatia,Analyst,Jaipur,1-2,750994.2000000001,Y
+Bijay Khanna,Associate,Jaipur,3-4,1054816.4000000001,Y
+Kshitij Bhatia,Analyst,Bangalore,1-2,768674.5000000001,Y
+Nandini Chowdhury,Analyst,Bangalore,1-2,740426.5000000001,Y
+Ayaan Gupta,Senior Analyst,Jaipur,2-3,961955.5000000001,Y
+Pratima Reddy,Senior Analyst,Bangalore,2-3,833008.0000000001,N
+Pankaj Chowdhury,Senior Analyst,Bangalore,2-3,974380.0000000001,Y
+Madhu Joshi,Analyst,Bangalore,1-2,749219.9,Y
+Mahima Menon,Analyst,Bangalore,0-1,627000.0,Y
+Deepika Nair,Senior Associate,Jaipur,0-1,1696920.6375000002,Y
+Amit Nair,Analyst,Jaipur,1-2,736773.4,Y
+Geetanjali Singh,Analyst,Pune,0-1,627000.0,Y
+Puneet Rao,Associate,Bangalore,3-4,1653114.1,Y
+Kedar Khanna,Analyst,Bangalore,0-1,627000.0,Y
+Bhavna Nair,Senior Analyst,Jaipur,2-3,969334.3,Y
+Mukul Menon,Analyst,Bangalore,0-1,627000.0,Y
+Bikram Sinha,Associate,Jaipur,4-5,1123041.7000000002,Y
+Amita Iyer,Analyst,Jaipur,0-1,627000.0,Y
+Amar Kapoor,Analyst,Jaipur,1-2,755924.4,Y
+Aishwarya Rao,Analyst,Jaipur,1-2,765747.4,Y
+Bhavya Iyer,Senior Analyst,Jaipur,2-3,888603.1000000001,Y
+Ajeet Kaur,Analyst,Jaipur,1-2,717770.9,Y
+Kavita Iyer,Analyst,Bangalore,0-1,627000.0,Y
+Preity Iyer,Senior Analyst,Bangalore,1-2,824198.1000000001,Y
+Avni Mehta,Senior Analyst,Jaipur,2-3,894803.8,Y
+Abhiram Iyer,Analyst,Jaipur,1-2,764892.7000000001,Y
+Narain Banerjee,Analyst,Bangalore,0-1,627000.0,N
+Asha Kulkarni,Senior Analyst,Jaipur,2-3,888851.7000000001,Y
+Deepak Kapoor,Senior Associate,Jaipur,0-1,1885467.3750000005,Y
+Abhinav Joshi,Analyst,Jaipur,0-1,627000.0,Y
+Advaita Kulkarni,Analyst,Jaipur,1-2,763992.9,Y
+Ananya Kulkarni,Analyst,Jaipur,0-1,627000.0,Y
+Hemant Rao,Senior Analyst,Pune,2-3,805356.2000000001,Y
+Chetan Dhillon,Associate,Jaipur,3-4,1009160.9,Y
+Dhairya Khanna,Senior Associate,Jaipur,0-1,1542655.1250000002,Y
+Pavan Bhatia,Senior Analyst,Bangalore,2-3,952110.5000000001,N
+Areen Kapoor,Analyst,Jaipur,0-1,627000.0,Y
+Kabir Dhillon,Analyst,Bangalore,0-1,627000.0,N
+Parul Banerjee,Senior Analyst,Bangalore,2-3,828817.0000000001,Y
+Ila Sharma,Senior Analyst,Pune,2-3,886576.9,Y
+Manjeet Bhatia,Analyst,Bangalore,0-1,627000.0,Y
+Aakash Patel,Analyst,Jaipur,0-1,627000.0,Y
+Rekha Mehta,Senior Associate,Bangalore,6-7,2333316.7,Y
+Prachi Sharma,Senior Analyst,Bangalore,2-3,898324.9,Y
+Rashi Pillai,Senior Associate,Bangalore,5-6,2524660.6,Y
+Aditya Sinha,Analyst,Jaipur,0-1,627000.0,Y
+Avani Kaur,Senior Analyst,Jaipur,2-3,894914.9,Y
+Padma Kulkarni,Senior Analyst,Bangalore,2-3,967915.3,Y
+Aarav Gupta,Analyst,Jaipur,0-1,627000.0,Y
+Harish Sinha,Analyst,Pune,0-1,627000.0,Y
+Karthik Kapoor,Analyst,Bangalore,1-2,726267.3,Y
+Maruti Mehta,Analyst,Bangalore,1-2,762757.6000000001,Y
+Fathima Sharma,Analyst,Pune,0-1,627000.0,Y
+Nitara Joshi,Senior Analyst,Bangalore,2-3,830020.4,Y
+Nikhil Gupta,Senior Analyst,Bangalore,2-3,942394.2000000001,Y
+Darshan Singh,Manager,Jaipur,8-9,3343129.9000000004,Y
+Purab Kaur,Associate,Bangalore,2-3,1250839.7000000002,Y
+Jaya Sinha,Analyst,Bangalore,1-2,723175.2000000001,Y
+Jayanti Pillai,Analyst,Bangalore,1-2,739876.5000000001,Y
+Gautam Patel,Analyst,Pune,1-2,754706.7000000001,Y
+Manas Sinha,Analyst,Bangalore,0-1,627000.0,N
+Lavanya Patel,Analyst,Bangalore,1-2,725509.4,Y
+Brinda Banerjee,Associate,Jaipur,4-5,1121623.8,Y
+Arundhati Menon,Senior Analyst,Jaipur,2-3,926074.6000000001,Y
+Advika Pillai,Analyst,Jaipur,0-1,627000.0,Y
+Akshara Patel,Analyst,Jaipur,0-1,627000.0,Y
+Anuradha Patel,Analyst,Jaipur,1-2,720280.0,Y
+Chaitanya Rao,Associate,Jaipur,3-4,1134543.3,Y
+Nisha Singh,Senior Analyst,Bangalore,2-3,926847.9,Y
+Neelam Kaur,Senior Analyst,Bangalore,2-3,848760.0000000001,Y
+Jhanvi Banerjee,Analyst,Bangalore,1-2,758957.1000000001,Y
+Aravind Singh,Analyst,Jaipur,0-1,627000.0,Y
+Jaidev Khanna,Manager,Pune,8-9,3239693.6,Y
+Chirag Sharma,Associate,Jaipur,4-5,1107770.4000000001,Y
+Dhanush Sinha,Senior Associate,Jaipur,0-1,1542655.1250000002,Y
+Mitali Reddy,Analyst,Bangalore,1-2,731196.4,Y
+Ketaki Kulkarni,Analyst,Bangalore,0-1,627000.0,Y
+Jahnavi Iyer,Senior Associate,Pune,5-6,1902671.1,Y
+Pradnya Patel,Senior Analyst,Bangalore,2-3,970895.2000000001,Y
+Khushi Chowdhury,Analyst,Bangalore,0-1,627000.0,Y
+Preethi Nair,Senior Analyst,Bangalore,2-3,911790.0000000001,Y
+Pushpa Mehta,Associate,Bangalore,4-5,1133419.1,Y
+Ajay Bhatia,Analyst,Jaipur,0-1,627000.0,Y
