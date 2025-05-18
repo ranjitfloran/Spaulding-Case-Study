@@ -4,12 +4,10 @@ This project is a data-driven Employee Compensation Forecasting Application desi
 
 Tools & Technologies Used
 Python (Pandas, Matplotlib, Seaborn, SQLite3)
-
+python version 3.11.7
 JupyterLab / Jupyter Notebook
-
 Git, GitHub
-
-SQL (SQLite)
+SQL (SQLite)- SQLite3
 
 How to Set Up
 Clone the Repository:
@@ -17,7 +15,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/ranjitfloran/Spaulding-case-study1.git
+git clone https://github.com/ranjitfloran/Spaulding-case-study.git
 Install Required Packages:
 
 nginx
